@@ -2,6 +2,7 @@
   "name": "lc_very",
   "version": "1.0.0",
   "description": "small schema package",
+  "types": "./lib/index.d.ts",
   "main": "lib/index.js",
   "scripts": {
     "test": "jest --config jestconfig.json",
