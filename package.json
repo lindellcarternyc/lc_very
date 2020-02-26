@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest --config jestconfig.json",
     "clean": "rimraf ./lib",
-    "build": "tsc",
+    "build": "npm run clean && tsc",
     "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
     "lint": "tslint -p tsconfig.json"
   },
