@@ -11,5 +11,8 @@
     "verification"
   ],
   "author": "Lindell Carter",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.8.2"
+  }
 }
