@@ -1,0 +1,15 @@
+{
+  "name": "lc_very",
+  "version": "1.0.0",
+  "description": "small schema package",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "object",
+    "verification"
+  ],
+  "author": "Lindell Carter",
+  "license": "ISC"
+}
